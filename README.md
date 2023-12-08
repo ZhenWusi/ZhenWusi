@@ -1,4 +1,4 @@
-## Hi there,  I'm [CodeSlogan](https://ZhenWusi.github.io/) 👋
+## Hi there,  I'm [Zhen Wusi](https://ZhenWusi.github.io/) 👋
 
 Welcome to my github profile!
 
