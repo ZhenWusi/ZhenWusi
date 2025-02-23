@@ -28,7 +28,7 @@
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- 显示用户的 GitHub 奖杯，展示成就 -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Xiaokang2022&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=ZhenWusi&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 
 
