@@ -28,26 +28,40 @@
   <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
 
+
 <!-- 显示徽章：显示GitHub、CSDN、哔哩哔哩等社交平台的徽章 -->
-<p align="center">
+<p align="center" style="text-align: center;">
   <!-- GitHub -->
-  <a href="https://github.com/ZhenWusi"><img src="https://img.shields.io/badge/GitHub-ZhenWusi-blue?logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ZhenWusi" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/GitHub-ZhenWusi-blue?logo=github&logoColor=white" />
+  </a>
   
   <!-- CSDN -->
-  <a href="https://blog.csdn.net/m0_66307774?type=blog"><img src="https://img.shields.io/badge/CSDN-小九九-red?logo=csdn&logoColor=white" /></a>
+  <a href="https://blog.csdn.net/m0_66307774?type=blog" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/CSDN-小九九-red?logo=csdn&logoColor=white" />
+  </a>
   
   <!-- 哔哩哔哩 -->
-  <a href="https://space.bilibili.com/1612805047?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/哔哩哔哩-怎么不是小九九呢-pink?logo=bilibili&logoColor=white" /></a>
+  <a href="https://space.bilibili.com/1612805047?spm_id_from=333.1007.0.0" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/哔哩哔哩-怎么不是小九九呢-pink?logo=bilibili&logoColor=white" />
+  </a>
   
   <!-- QQ -->
-  <img src="https://img.shields.io/badge/QQ-1097407138-green?logo=tencentqq&logoColor=white" />
+  <span style="display: inline-block;">
+    <img src="https://img.shields.io/badge/QQ-1097407138-green?logo=tencentqq&logoColor=white" />
+  </span>
   
   <!-- 显示GitHub访问统计 -->
-  <img src="https://komarev.com/ghpvc/?username=ZhenWusi&abbreviated=true&color=yellow" />
+  <span style="display: inline-block;">
+    <img src="https://komarev.com/ghpvc/?username=ZhenWusi&abbreviated=true&color=yellow" />
+  </span>
 
   <!-- 知乎 -->
-  <a href="https://www.zhihu.com/people/guo-guo-13-75-10"><img src="https://img.shields.io/badge/知乎-九九-orange?logo=zhihu&logoColor=white" /></a>
+  <a href="https://www.zhihu.com/people/guo-guo-13-75-10" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/知乎-九九-orange?logo=zhihu&logoColor=white" />
+  </a>
 </p>
+
 
 <!-- 尾部部分：结束动画效果，包含一个告别信息 -->
 <p align="center">
