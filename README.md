@@ -20,7 +20,7 @@
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ZhenWusi&theme=github-compact&hide_border=true&area=true">
   <br/>
   <!-- Wakatime统计：显示用户编程时间，哪些语言使用的最多 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZhenWusi&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZhenWusi&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
   <!-- GitHub语言统计：显示用户使用过最多的编程语言的统计图 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhenWusi&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
   <br/>
