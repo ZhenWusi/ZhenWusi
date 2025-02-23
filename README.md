@@ -19,13 +19,16 @@
   <!-- GitHub活动图：显示用户在GitHub上的活动图，展示活跃度 -->
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ZhenWusi&theme=github-compact&hide_border=true&area=true">
   <br/>
-  <!-- Wakatime统计：显示用户编程时间，哪些语言使用的最多 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZhenWusi&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
   <!-- GitHub语言统计：显示用户使用过最多的编程语言的统计图 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhenWusi&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
   <br/>
   <!-- 技能图标：显示编程技能图标，表示熟练使用的编程语言 -->
   <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+</p>
+<p align="center">
+    <!-- https://github.com/ryo-ma/github-profile-trophy -->
+    <!-- 显示用户的 GitHub 奖杯，展示成就 -->
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Xiaokang2022&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 
 
