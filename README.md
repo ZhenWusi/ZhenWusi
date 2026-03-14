@@ -25,11 +25,6 @@
   <!-- 技能图标：显示编程技能图标，表示熟练使用的编程语言 -->
   <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
-<p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- 显示用户的 GitHub 奖杯，展示成就 -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=ZhenWusi&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
-</p>
 
 
 <!-- 显示徽章：显示GitHub、CSDN、哔哩哔哩等社交平台的徽章 -->
